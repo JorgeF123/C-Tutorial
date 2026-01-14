@@ -1,0 +1,11 @@
+# Compiled binaries
+main
+*.o
+*.out
+
+# Debug symbols
+*.dSYM/
+*.dSYM
+
+# Object files
+*.obj
